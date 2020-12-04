@@ -19,6 +19,6 @@
 <div class="Search">
   <input
     type="text"
-    placeholder="Search Verb"
+    placeholder="Search Verb in Simple Form"
     on:keyup={event => handleSearch(event)} />
 </div>
